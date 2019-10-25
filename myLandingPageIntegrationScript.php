@@ -31,7 +31,7 @@ class LandingPageIntegration
      *
      * @var string
      */
-    const CREDENTIALS = "MKT_INBOUND:uNamWbAUfkDqkEqyaY[vBkSjFhc7emXSSaPrEonU";
+    const CREDENTIALS = "MKT_FORM_TEST_USER:Salfalandingmarketing2019.";
 
     /**
      * The cookies are remembered between consecutive OData requests
