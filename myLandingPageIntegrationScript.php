@@ -31,7 +31,7 @@ class LandingPageIntegration
      *
      * @var string
      */
-    const CREDENTIALS = "MKT_INBOUND:PASSWORD";
+    const CREDENTIALS = "MKT_INBOUND:uNamWbAUfkDqkEqyaY[vBkSjFhc7emXSSaPrEonU";
 
     /**
      * The cookies are remembered between consecutive OData requests
